@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/文件下载和缓存/baiduyunpan/springboot-dubbo-client" charset="UTF-8" />
+    <file url="file://D:/文件下载和缓存/baiduyunpan/springboot-dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubbo-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubboClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../dubboServer" charset="UTF-8" />
+  </component>
+</project>

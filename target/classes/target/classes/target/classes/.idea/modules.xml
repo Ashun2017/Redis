@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-client/dubbo-client.iml" filepath="$PROJECT_DIR$/../dubbo-client/dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dubbo-server/dubbo-server.iml" filepath="$PROJECT_DIR$/../dubbo-server/dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../javatest/javatest.iml" filepath="$PROJECT_DIR$/../javatest/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis.iml" filepath="$PROJECT_DIR$/redis.iml" />
+      <module fileurl="file://D:/文件下载和缓存/baiduyunpan/springboot-dubbo-client/springboot-dubbo-client.iml" filepath="D:/文件下载和缓存/baiduyunpan/springboot-dubbo-client/springboot-dubbo-client.iml" />
+      <module fileurl="file://D:/文件下载和缓存/baiduyunpan/springboot-dubbo-server/springboot-dubbo-server.iml" filepath="D:/文件下载和缓存/baiduyunpan/springboot-dubbo-server/springboot-dubbo-server.iml" />
+    </modules>
+  </component>
+</project>
